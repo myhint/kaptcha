@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="math.MathApplicationTester5" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-09-24T03:57:25" hostname="bwdeMacBook-Pro.local" time="0.03">
+  <properties/>
+  <testcase name="testAdd" classname="math.MathApplicationTester5" time="0.03"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

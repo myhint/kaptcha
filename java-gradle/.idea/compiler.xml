@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="_main" target="1.8" />
+      <module name="_test" target="1.8" />
+      <module name="gradle-_main" target="1.8" />
+      <module name="gradle-_test" target="1.8" />
+      <module name="gradle_main" target="1.8" />
+      <module name="gradle_test" target="1.8" />
+      <module name="jav_main" target="1.8" />
+      <module name="jav_test" target="1.8" />
+      <module name="javaGradle_main" target="1.8" />
+      <module name="javaGradle_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

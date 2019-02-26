@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Implementation-Title: java-gradle
+Implementation-Version: 1.3-SNAPSHOT
+
